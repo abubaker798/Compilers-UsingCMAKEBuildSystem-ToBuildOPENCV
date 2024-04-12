@@ -1,0 +1,26 @@
+Using CMAKE build tool and OpenCV
+github source code. You should be able to write C++ code that take an image and
+convert it into grey scale. 
+Note: you would need also to write CMakeLists.txt file to build your own C++ code. 
+
+Details:CMake is an open source, cross-platform family of tools
+designed to build, test, and package software
+OpenCV (Open Source
+Computer Vision Library) is an open-source library that includes several
+hundreds of computer vision algorithms.
+To install CMAKE (https://cmake.org/download/)
+To clone or download OpenCV github (https://github.com/opencv/opencv)
+________________________________________________________________________________________________________________________________ 
+CMAKE tutorial resources (Recommended)
+https://www.youtube.com/watch?v=A735Y4kMIPM
+https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4
+
+OPENCV tutorial resources (Recommended) https://docs.opencv.org/4.x/d1/dfb/intro.html
+_________________________________________________________________________________________________________________________________
+Notes:
+
+    The assignment should be done in teams of 3 members each.
+    Cheating cases will be graded negatively.
+    Please make sure your code is also performant as this will affect your grade as well.
+    You will deliver a report of steps you have done to build the opencv library and obstacles(If any) you faced during build and how you solved it attached with your code in naming convention deliverable as student1ID_student2ID_student3ID_assig4.zip
+
